@@ -1,10 +1,10 @@
 # Hi there, I'm Gerardo, Welcome 👋 
 
-## I am a Software Developer learning more about Python and would like to get into the gaming industry one day.
+## I am a Software Developer learning more about Web Development with PHP and Python. Also, I would like to get into the gaming industry one day.
 
 - 🌱 I am currently learning Python and improving my knowledge of PHP.
 - 👯 I am looking for new challenges and keep improving.
-- 🥅 2022 Goals: Learn more about programming.
+- 🥅 2023 Goals: Learn more about programming.
 - ⚡ Fun fact: One of my favourite hobbies are video games.
 
 ### Connect with me:
