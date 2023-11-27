@@ -4,7 +4,7 @@
 
 - 🌱 I am currently learning Python and improving my knowledge of PHP.
 - 👯 I am looking for new challenges and keep improving.
-- 🥅 2023 Goals: Learn more about programming.
+- 🥅 2024 Goals: Learn more about programming.
 - ⚡ Fun fact: One of my favourite hobbies are video games.
 
 ### Connect with me:
