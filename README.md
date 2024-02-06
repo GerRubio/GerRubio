@@ -1,11 +1,11 @@
 # Hi there, I'm Gerardo, Welcome 👋 
 
-## I am a Software Developer learning more about Web Development with PHP and Python. Also, I would like to get into the gaming industry one day.
+## I am a Software Developer learning more about Web Development with PHP and trying to become a Full-Stack Developer. Also, I would like to get into the gaming industry one day.
 
-- 🌱 I am currently learning Python and improving my knowledge of PHP.
+- 🌱 I am currently improving my knowledge and skills with PHP and Frontend technologies like React.
 - 👯 I am looking for new challenges and keep improving.
 - 🥅 2024 Goals: Learn more about programming.
-- ⚡ Fun fact: One of my favourite hobbies are video games.
+- ⚡ Fun fact: One of my favourite hobbies are videogames, boxing and motorsport.
 
 ### Connect with me:
 
@@ -23,5 +23,5 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="padding-right:10px;" />
